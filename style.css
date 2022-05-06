@@ -40,6 +40,7 @@
     height: 30%;
     width: 70%;
     border-radius: 100%;
+   
 }
 
 .name {
@@ -47,6 +48,7 @@
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
@@ -60,10 +62,12 @@
 .left-title {
     color: #eeeeee;
     font-size: 20px;
+    text-align: center;
 }
 
 .contact-info ul {
     padding-top: 1.5rem;
+    text-align: center;
 }
 
 .contact-info ul li,
@@ -97,6 +101,7 @@
 
 .gap {
     padding-bottom: 2rem;
+    
 }
 .about-me-contents {
     font-size: 18px;
